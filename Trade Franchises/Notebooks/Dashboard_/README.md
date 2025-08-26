@@ -35,20 +35,27 @@ Installation
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/franchise-risk-dashboard.git
-cd franchise-risk-dashboard
-pip install -r requirements.txt
+https://github.com/adamzewdie1/Trade-Franchises/edit/main/Trade%20Franchises/Notebooks/Dashboard_
+
 
 How to Run
 
 Train the models:
 
-python main.py
+revenue_forecast.ipynb   
+abandonment_prediction.ipynb  
+store_segmentation.ipynb 
 
 
 Launch the dashboard (Streamlit):
 
-streamlit run app.py
+bank_rec.ipynb   
+eda_revenue.ipynb   
+payments.ipynb  
+
+Launch the dashboard (Streamlit):
+
+test_all_the_models.py
 
 Project Structure
 franchise-risk-dashboard/
