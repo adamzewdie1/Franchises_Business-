@@ -1,0 +1,251 @@
+Owner_ID,Owner_Sex,Owner_Store_Count,Used_Government_Loan,Owner_Entity_Type
+OWN_0,Male,1,Yes,Corporation
+OWN_1,Female,1,Yes,Sole Proprietor
+OWN_2,Male,10,Yes,Sole Proprietor
+OWN_3,Male,1,No,Corporation
+OWN_4,Male,1,Yes,Corporation
+OWN_5,Male,2,Yes,Corporation
+OWN_6,Male,15,No,Sole Proprietor
+OWN_7,Male,3,No,Corporation
+OWN_8,Male,2,No,Corporation
+OWN_9,Male,1,No,LLC
+OWN_10,Male,3,Yes,LLC
+OWN_11,Female,30,Yes,Sole Proprietor
+OWN_12,Male,1,No,Corporation
+OWN_13,Male,2,No,Corporation
+OWN_14,Male,10,Yes,LLC
+OWN_15,Male,5,Yes,Sole Proprietor
+OWN_16,Male,3,Yes,LLC
+OWN_17,Male,5,No,LLC
+OWN_18,Male,1,No,LLC
+OWN_19,Male,1,Yes,LLC
+OWN_20,Male,10,Yes,Corporation
+OWN_21,Male,10,Yes,Corporation
+OWN_22,Male,10,No,LLC
+OWN_23,Male,15,No,Sole Proprietor
+OWN_24,Male,2,No,Sole Proprietor
+OWN_25,Male,2,Yes,Sole Proprietor
+OWN_26,Male,5,Yes,Sole Proprietor
+OWN_27,Male,3,Yes,LLC
+OWN_28,Male,5,Yes,Corporation
+OWN_29,Male,5,No,Sole Proprietor
+OWN_30,Male,10,No,LLC
+OWN_31,Male,1,No,Sole Proprietor
+OWN_32,Male,1,No,Sole Proprietor
+OWN_33,Female,1,Yes,LLC
+OWN_34,Female,2,No,Corporation
+OWN_35,Male,1,No,Corporation
+OWN_36,Male,2,No,LLC
+OWN_37,Male,2,Yes,Corporation
+OWN_38,Male,1,Yes,LLC
+OWN_39,Male,2,Yes,LLC
+OWN_40,Male,1,No,LLC
+OWN_41,Male,1,Yes,Corporation
+OWN_42,Male,10,Yes,LLC
+OWN_43,Female,1,Yes,Sole Proprietor
+OWN_44,Male,1,Yes,Corporation
+OWN_45,Male,2,Yes,Corporation
+OWN_46,Male,5,Yes,Corporation
+OWN_47,Male,1,Yes,Corporation
+OWN_48,Male,3,Yes,Sole Proprietor
+OWN_49,Male,1,No,Corporation
+OWN_50,Female,1,Yes,Corporation
+OWN_51,Male,2,No,LLC
+OWN_52,Female,2,Yes,Corporation
+OWN_53,Male,3,Yes,Sole Proprietor
+OWN_54,Male,5,No,Sole Proprietor
+OWN_55,Female,30,Yes,Sole Proprietor
+OWN_56,Male,2,Yes,Sole Proprietor
+OWN_57,Male,1,Yes,Corporation
+OWN_58,Male,5,No,Corporation
+OWN_59,Male,1,Yes,Sole Proprietor
+OWN_60,Male,2,No,Sole Proprietor
+OWN_61,Male,1,Yes,Corporation
+OWN_62,Male,1,Yes,Sole Proprietor
+OWN_63,Male,30,Yes,LLC
+OWN_64,Male,10,Yes,Sole Proprietor
+OWN_65,Male,3,Yes,Sole Proprietor
+OWN_66,Male,2,Yes,LLC
+OWN_67,Male,1,Yes,LLC
+OWN_68,Male,1,No,Corporation
+OWN_69,Female,1,Yes,Corporation
+OWN_70,Male,2,Yes,LLC
+OWN_71,Male,5,No,LLC
+OWN_72,Male,3,Yes,Corporation
+OWN_73,Male,1,Yes,Sole Proprietor
+OWN_74,Male,30,No,LLC
+OWN_75,Male,5,No,Corporation
+OWN_76,Male,2,Yes,Sole Proprietor
+OWN_77,Male,3,No,LLC
+OWN_78,Male,2,Yes,Sole Proprietor
+OWN_79,Male,1,Yes,Corporation
+OWN_80,Male,1,Yes,LLC
+OWN_81,Male,5,No,Sole Proprietor
+OWN_82,Male,1,Yes,LLC
+OWN_83,Male,1,Yes,Sole Proprietor
+OWN_84,Male,1,Yes,Corporation
+OWN_85,Male,1,Yes,Corporation
+OWN_86,Male,10,Yes,LLC
+OWN_87,Male,5,Yes,Sole Proprietor
+OWN_88,Male,2,Yes,LLC
+OWN_89,Male,1,Yes,LLC
+OWN_90,Male,2,Yes,Sole Proprietor
+OWN_91,Male,2,Yes,Sole Proprietor
+OWN_92,Male,1,Yes,Sole Proprietor
+OWN_93,Male,2,Yes,Corporation
+OWN_94,Male,1,No,LLC
+OWN_95,Male,3,Yes,LLC
+OWN_96,Male,3,Yes,Corporation
+OWN_97,Male,1,Yes,Sole Proprietor
+OWN_98,Male,1,Yes,Corporation
+OWN_99,Male,3,Yes,Corporation
+OWN_100,Male,2,Yes,Corporation
+OWN_101,Male,10,Yes,LLC
+OWN_102,Male,3,Yes,Corporation
+OWN_103,Male,1,Yes,LLC
+OWN_104,Female,1,Yes,LLC
+OWN_105,Male,3,Yes,LLC
+OWN_106,Male,1,Yes,Sole Proprietor
+OWN_107,Male,2,Yes,LLC
+OWN_108,Male,15,Yes,LLC
+OWN_109,Male,2,Yes,Sole Proprietor
+OWN_110,Male,1,Yes,LLC
+OWN_111,Male,3,No,Corporation
+OWN_112,Female,2,Yes,Corporation
+OWN_113,Male,2,Yes,LLC
+OWN_114,Male,15,No,Sole Proprietor
+OWN_115,Male,1,No,Corporation
+OWN_116,Male,30,Yes,Sole Proprietor
+OWN_117,Male,15,Yes,Sole Proprietor
+OWN_118,Male,1,No,Corporation
+OWN_119,Male,1,No,Sole Proprietor
+OWN_120,Male,1,Yes,Corporation
+OWN_121,Male,1,Yes,Sole Proprietor
+OWN_122,Male,1,Yes,Corporation
+OWN_123,Male,3,Yes,LLC
+OWN_124,Male,1,Yes,Corporation
+OWN_125,Male,1,Yes,Corporation
+OWN_126,Male,10,Yes,Corporation
+OWN_127,Male,1,No,Corporation
+OWN_128,Male,10,Yes,Sole Proprietor
+OWN_129,Male,1,Yes,LLC
+OWN_130,Male,1,No,Corporation
+OWN_131,Male,3,No,Sole Proprietor
+OWN_132,Male,3,Yes,LLC
+OWN_133,Male,10,Yes,LLC
+OWN_134,Female,5,Yes,LLC
+OWN_135,Male,10,Yes,LLC
+OWN_136,Male,1,Yes,Corporation
+OWN_137,Male,1,Yes,Corporation
+OWN_138,Male,5,Yes,Sole Proprietor
+OWN_139,Female,10,Yes,Sole Proprietor
+OWN_140,Female,30,Yes,Sole Proprietor
+OWN_141,Male,2,Yes,LLC
+OWN_142,Male,1,Yes,LLC
+OWN_143,Male,5,Yes,Corporation
+OWN_144,Male,1,Yes,LLC
+OWN_145,Male,15,No,LLC
+OWN_146,Male,10,Yes,LLC
+OWN_147,Male,2,Yes,Sole Proprietor
+OWN_148,Male,5,No,Sole Proprietor
+OWN_149,Male,5,Yes,Corporation
+OWN_150,Female,1,Yes,LLC
+OWN_151,Male,15,Yes,LLC
+OWN_152,Male,2,Yes,Corporation
+OWN_153,Male,10,No,LLC
+OWN_154,Female,1,Yes,LLC
+OWN_155,Male,10,Yes,Sole Proprietor
+OWN_156,Male,1,Yes,Corporation
+OWN_157,Male,1,Yes,Corporation
+OWN_158,Male,15,Yes,Corporation
+OWN_159,Male,1,Yes,Corporation
+OWN_160,Male,1,Yes,Sole Proprietor
+OWN_161,Male,30,No,Sole Proprietor
+OWN_162,Male,30,Yes,LLC
+OWN_163,Male,2,Yes,LLC
+OWN_164,Male,3,Yes,LLC
+OWN_165,Male,2,Yes,LLC
+OWN_166,Male,1,Yes,Sole Proprietor
+OWN_167,Male,1,Yes,Corporation
+OWN_168,Male,3,Yes,Sole Proprietor
+OWN_169,Male,5,Yes,LLC
+OWN_170,Male,5,Yes,Sole Proprietor
+OWN_171,Male,5,No,Corporation
+OWN_172,Male,1,Yes,Corporation
+OWN_173,Male,2,Yes,Sole Proprietor
+OWN_174,Male,1,Yes,Sole Proprietor
+OWN_175,Male,2,No,Sole Proprietor
+OWN_176,Male,2,Yes,LLC
+OWN_177,Male,10,Yes,Sole Proprietor
+OWN_178,Female,1,No,Sole Proprietor
+OWN_179,Male,1,No,Sole Proprietor
+OWN_180,Male,1,No,Corporation
+OWN_181,Male,5,Yes,Corporation
+OWN_182,Female,3,Yes,LLC
+OWN_183,Male,1,Yes,LLC
+OWN_184,Male,1,No,Corporation
+OWN_185,Male,5,Yes,Corporation
+OWN_186,Male,1,Yes,Corporation
+OWN_187,Male,10,Yes,Sole Proprietor
+OWN_188,Male,5,No,Sole Proprietor
+OWN_189,Male,1,Yes,Corporation
+OWN_190,Male,1,Yes,Sole Proprietor
+OWN_191,Male,30,Yes,Sole Proprietor
+OWN_192,Female,1,Yes,LLC
+OWN_193,Male,1,Yes,Corporation
+OWN_194,Male,10,Yes,Corporation
+OWN_195,Male,15,Yes,Sole Proprietor
+OWN_196,Male,30,Yes,Corporation
+OWN_197,Male,5,Yes,LLC
+OWN_198,Male,1,Yes,LLC
+OWN_199,Male,1,Yes,LLC
+OWN_200,Male,5,Yes,Corporation
+OWN_201,Male,2,Yes,Corporation
+OWN_202,Male,2,Yes,Corporation
+OWN_203,Male,15,Yes,Corporation
+OWN_204,Male,1,Yes,Corporation
+OWN_205,Male,2,No,LLC
+OWN_206,Male,1,Yes,Sole Proprietor
+OWN_207,Male,2,No,LLC
+OWN_208,Male,1,Yes,Corporation
+OWN_209,Male,1,Yes,LLC
+OWN_210,Male,1,No,Corporation
+OWN_211,Male,3,Yes,Corporation
+OWN_212,Male,5,Yes,LLC
+OWN_213,Male,2,Yes,Corporation
+OWN_214,Male,30,Yes,Sole Proprietor
+OWN_215,Male,1,No,Corporation
+OWN_216,Male,1,No,Sole Proprietor
+OWN_217,Male,10,No,Sole Proprietor
+OWN_218,Male,1,Yes,Corporation
+OWN_219,Male,30,No,LLC
+OWN_220,Male,1,No,Sole Proprietor
+OWN_221,Male,30,Yes,LLC
+OWN_222,Male,1,Yes,Sole Proprietor
+OWN_223,Male,10,No,Corporation
+OWN_224,Male,2,Yes,Corporation
+OWN_225,Male,30,No,Sole Proprietor
+OWN_226,Female,1,Yes,Corporation
+OWN_227,Male,2,No,Sole Proprietor
+OWN_228,Male,30,Yes,Corporation
+OWN_229,Male,2,Yes,LLC
+OWN_230,Male,3,Yes,Corporation
+OWN_231,Male,3,No,LLC
+OWN_232,Male,2,Yes,Corporation
+OWN_233,Male,3,Yes,LLC
+OWN_234,Male,2,Yes,Corporation
+OWN_235,Male,15,No,LLC
+OWN_236,Male,1,Yes,Sole Proprietor
+OWN_237,Male,1,No,Sole Proprietor
+OWN_238,Male,30,Yes,LLC
+OWN_239,Male,10,Yes,Corporation
+OWN_240,Female,2,Yes,LLC
+OWN_241,Female,3,Yes,Corporation
+OWN_242,Female,1,No,Sole Proprietor
+OWN_243,Male,1,Yes,Corporation
+OWN_244,Male,2,Yes,Sole Proprietor
+OWN_245,Female,1,No,Corporation
+OWN_246,Male,2,Yes,Corporation
+OWN_247,Female,1,Yes,Corporation
+OWN_248,Female,30,No,LLC
+OWN_249,Male,30,Yes,LLC
