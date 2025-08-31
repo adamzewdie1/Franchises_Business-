@@ -19,17 +19,17 @@ Provide dashboards for decision-making and risk monitoring.
 
 Features
 
-🔹 Data Ingestion & Cleaning — handles royalty, revenue, and payment history.
+- Data Ingestion & Cleaning — handles royalty, revenue, and payment history.
 
-🔹 Performance Segmentation — clusters stores by revenue history using KMeans and DBSCAN.
+- Performance Segmentation — clusters stores by revenue history using KMeans and DBSCAN.
 
-🔹 Predictive Modeling — logistic regression, random forest, and gradient boosting (XGBoost) models classify abandonment risk.
+- Predictive Modeling — logistic regression, random forest, and gradient boosting (XGBoost) models classify abandonment risk.
 
-🔹 Explainability — SHAP values and feature-importance plots interpret the key drivers of risk.
+- Explainability — SHAP values and feature-importance plots interpret the key drivers of risk.
 
-🔹 Interactive Dashboard — store-level visuals (scatter, pie, heatmap) with filtering by brand, state, or owner.
+- Interactive Dashboard — store-level visuals (scatter, pie, heatmap) with filtering by brand, state, or owner.
 
-🔹 Business Logic Integration — incorporates rules such as $750 minimum royalty, government loan usage, and store age (years open).
+- Business Logic Integration — incorporates rules such as $750 minimum royalty, government loan usage, and store age (years open).
 
 
 
@@ -69,10 +69,10 @@ franchise-risk-dashboard/
 
 Example Dashboard Views
 
-📊 Store Segmentation (PCA Scatter)
-🥧 Risk Distribution by Brand
-📈 Revenue & Missed Payments Trend
-⚠️ Store-Level Risk Scoring with SHAP
+- Store Segmentation (PCA Scatter)
+- Risk Distribution by Brand
+- Revenue & Missed Payments Trend
+- Store-Level Risk Scoring with SHAP
 
 Contributing
 
