@@ -31,11 +31,6 @@ Features
 
 🔹 Business Logic Integration — incorporates rules such as $750 minimum royalty, government loan usage, and store age (years open).
 
-Installation
-
-Clone the repository and install dependencies:
-
-https://github.com/adamzewdie1/Trade-Franchises/edit/main/Trade%20Franchises/Notebooks/Dashboard_
 
 
 How to Run
